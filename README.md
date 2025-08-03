@@ -1,4 +1,5 @@
 📊 Marketing Campaign Analysis & Optimization
+
 This repository contains my Marketing Campaign Analysis Project, where I analyzed customer data to evaluate and optimize campaign strategies using Machine Learning techniques. The project involves data preprocessing, exploratory analysis, model building, and visualization, with a final presentation summarizing key business insights.
 
 📂 Repository Structure
