@@ -4,7 +4,7 @@ This repository contains my Marketing Campaign Analysis Project, where I analyze
 
 # 📂 Repository Structure
 
-# File/Folder	Description
+# File Description
 **Project Report**- Detailed project report with objectives, methodology, and conclusions
 Marketing Campaign Analysis	Jupyter Notebook with data cleaning, EDA, model training, and evaluation
 **PowerBI Dashboard** - Interactive Power BI dashboard showcasing campaign KPIs & customer insights
